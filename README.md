@@ -1,7 +1,7 @@
 # App ~ Coleccion ~ Libros
 ___
 
-:star:**[¡Clickea here to see it!](https://fedeberbara.github.io/App-Libros/.)**:fire:
+:star:**[¡Click here to see it!](https://fedeberbara.github.io/App-Libros/.)**:fire:
 ___
 
 ## Descripcion / Description
